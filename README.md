@@ -1,4 +1,4 @@
-````markdown
+
 # Expense Tracker 🧾
 
 A simple Java console-application to track incomes and expenses, store data persistently, and generate reports.  
@@ -29,7 +29,7 @@ A simple Java console-application to track incomes and expenses, store data pers
 
 ## Project Structure
 
-```text
+````markdown
 Expense_Tracker/
 ├── src/
 │   ├── Main.java
